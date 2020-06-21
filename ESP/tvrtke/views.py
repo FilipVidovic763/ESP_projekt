@@ -12,6 +12,7 @@ posts=[
     }
 ]
 
+
 def tvrtke(request):
     
     context={
