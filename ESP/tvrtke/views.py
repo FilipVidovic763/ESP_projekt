@@ -19,3 +19,5 @@ def tvrtke(request):
         'posts':posts
     }
     return  render(request, 'tvrtke/tvrtke.html',context)
+
+#
